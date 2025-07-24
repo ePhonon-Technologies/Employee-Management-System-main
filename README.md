@@ -1,7 +1,4 @@
-Here's a more professional and visually appealing version of your README.md for the Employees Management System (EMS):
 
-```markdown
-# 🚀 Employees Management System (EMS)
 
 <div align="center">
   <h1>Modern Employee Management Solution</h1>
